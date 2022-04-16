@@ -1,5 +1,6 @@
 name: flutter_responsive_layout
 description: Generates a layout folder in the flutter project with a custom layout builders and breakpoints, VGV Style.
+repository: https://github.com/Salayna/brick-house
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
