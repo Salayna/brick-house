@@ -1,0 +1,4 @@
+bricks:
+  flutter_responsive_layout:
+    version: 0.1.1
+    path: ./flutter_responsive_layout
