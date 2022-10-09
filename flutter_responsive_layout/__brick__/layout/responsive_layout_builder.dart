@@ -1,5 +1,5 @@
-import 'package:{{#snakeCase}}{{package-name}}{{/snakeCase}}/material.dart';
-import 'package:{{#snakeCase}}{{package-name}}{{/snakeCase}}/layout/layout.dart';
+import 'package:{{project-name.snakeCase()}}/material.dart';
+import 'package:{{project-name.snakeCase()}}/layout/layout.dart';
 
 enum ResponsiveLayoutSize { small, medium, large }
 
